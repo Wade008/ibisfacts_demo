@@ -21,3 +21,9 @@ git checkout main
 ```bash
 git merge css_layout
 ```
+
+## push all branches to github
+
+```bash
+git push --all origin
+```
